@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602511258 source:/home/cosmin/Desktop/var2020-model-subiii-2/main.cpp
+	<iostream>
+	<cstring>
+

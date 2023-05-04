@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638805384 source:c:\users\conta\desktop\admitereb_2019_mate\main.cpp
+	<iostream>
+	<fstream>
+

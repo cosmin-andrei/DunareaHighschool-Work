@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602514731 source:/home/cosmin/Desktop/bac2018-sub2.5/main.cpp
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602569486 source:/home/cosmin/Desktop/testantreament2-sircaracter/main.cpp
+	<iostream>
+	<cstring>
+

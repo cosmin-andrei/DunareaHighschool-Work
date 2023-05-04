@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613398380 source:c:\users\conta\desktop\school\informaticã\carte\915\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

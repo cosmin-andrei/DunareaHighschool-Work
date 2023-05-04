@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621865800 source:c:\users\conta\desktop\bac2014-aug-subiii-4\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

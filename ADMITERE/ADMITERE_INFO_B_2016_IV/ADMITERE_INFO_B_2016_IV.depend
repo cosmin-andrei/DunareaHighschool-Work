@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633359479 source:c:\users\conta\documents\info2021-2\admitere_info_b_2016_iv\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603107596 source:/home/cosmin/Desktop/varianta8-subiii-3/main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
